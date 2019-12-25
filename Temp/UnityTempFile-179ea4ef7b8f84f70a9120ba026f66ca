@@ -298,5 +298,7 @@
 /define:UNITY_TEAM_LICENSE
 /define:CSHARP_7_OR_LATER
 /define:CSHARP_7_3_OR_NEWER
-"Assets/FollowPlayer.cs"
-"Assets/NewBehaviourScript.cs"
+"Assets/Score.cs"
+"Assets/Scripts/FollowPlayer.cs"
+"Assets/Scripts/PlayerCollision.cs"
+"Assets/Scripts/PlayerMovement.cs"
